@@ -1,4 +1,4 @@
-# 🌍 API Sistem Informasi Geografis (SIG) — Lokasi Wisata Bali
+# API Sistem Informasi Geografis (SIG) — Lokasi Wisata Bali
 
 Proyek ini merupakan sistem **API berbasis Laravel** yang digunakan untuk menampilkan data lokasi wisata di Bali.  
 Data disimpan menggunakan **SQLite**, dengan fitur:
